@@ -10,11 +10,19 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/git/</loc>
-    <lastmod>2023-03-16T21:26:14+03:00</lastmod>
+    <loc>https://example.com/post/markdown/</loc>
+    <lastmod>2023-04-08T20:36:01+03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/</loc>
+    <lastmod>2023-04-08T20:36:01+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F2/</loc>
+    <lastmod>2023-04-08T20:15:37+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/git/</loc>
     <lastmod>2023-03-16T21:26:14+03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
