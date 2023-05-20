@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 May 2023 16:32:25 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 May 2023 12:27:16 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,21 +13,45 @@
     </image>
     
     <item>
+      <title>Language</title>
+      <link>https://example.com/post/language/</link>
+      <pubDate>Sat, 20 May 2023 12:27:16 +0300</pubDate>
+      <guid>https://example.com/post/language/</guid>
+      <description>&lt;p&gt;What is the C++ programming language
+C++ is a programming language that was developed in the 1980s as an extension of the C language. This language differs from C in that it has a larger set of features, including object-oriented programming and templates.&lt;/p&gt;
+&lt;p&gt;What is C++ for?
+C++ is used to create all sorts of software, from games to operating systems. This language is also widely used in intensive data processing and scientific computing.
+C++ provides developers with a powerful and flexible tool for creating software. It allows you to write efficient and fast code, making it one of the most popular programming languages in the world.&lt;/p&gt;
+&lt;p&gt;What can be written in C++
+C++ allows you to create applications and programs of any complexity: from simple console utilities to complex game engines. Also in this language, you can program microcontrollers and systems in real time. You can write almost anything in C++, from system applications to mobile applications. This language is used to create operating systems, software of various kinds, and game engines.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week5</title>
+      <link>https://example.com/post/week5/</link>
+      <pubDate>Sat, 20 May 2023 12:20:16 +0300</pubDate>
+      <guid>https://example.com/post/week5/</guid>
+      <description>&lt;p&gt;Semester is almost finished and this week was very busy, I had two controls, one linear algebra and the other logical maths. Now i have to prepare for the next control and for final exams. Related to the subject &amp;quot; Operating Sistems&amp;quot; i already finished all labs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Языки</title>
       <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8/</link>
       <pubDate>Fri, 12 May 2023 16:32:25 +0300</pubDate>
       <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8/</guid>
-      <description>&lt;h1 id=&#34;научные-языки-программирования&#34;&gt;Научные языки программирования&lt;/h1&gt;
-&lt;p&gt;В компьютерном программировании , научный язык программирования может относиться к двум степеням той же концепции.
-В широком смысле научный язык программирования - это язык программирования, который широко используется в вычислительной науке и вычислительной математике . В этом смысле C / C ++ и Python можно рассматривать как языки научного программирования.
-В более широком смысле научный язык программирования - это язык, который разработан и оптимизирован для использования математических формул и матриц . Такие языки характеризуются не только наличием библиотек, выполняющих математические или научные функции, но и синтаксисом самого языка. Например, ни C ++, ни Python не имеют встроенных типов матриц или функций для матричной арифметики (сложение, умножение и т. Д.); вместо этого эта функция доступна через стандартные библиотеки. Языки научного программирования в более строгом смысле включают ALGOL , APL , Fortran , J , Julia ,Maple , MATLAB и R.
-Языки научного программирования не следует путать с научным языком в целом, который свободно относится к более высоким стандартам точности, правильности и краткости, ожидаемым от практиков научного метода .&lt;/p&gt;
-&lt;h1 id=&#34;примеры&#34;&gt;Примеры&lt;/h1&gt;
-&lt;p&gt;Линейная алгебра
-Языки научного программирования предоставляют возможности для работы с линейной алгеброй. Работа с большими векторами и матрицами является ключевой особенностью этих языков, поскольку линейная алгебра закладывает основу математической оптимизации , которая, в свою очередь, позволяет использовать основные приложения, такие как глубокое обучение.
-Математическая оптимизация
-В научном языке программирования мы можем вычислять оптимум функции с синтаксисом, близким к математическому языку. В этом примере используется метод минимизации Ньютона . Современные языки научного программирования будут использовать автоматическое дифференцирование для вычисления градиентов и гессианов функции, заданной в качестве входных данных; ср. дифференцируемое программирование . Здесь для этой задачи выбрана автоматическая прямая дифференциация. Старые языки научного программирования, такие как почтенный Фортран, требовали от программиста передавать рядом с функцией, которая должна быть оптимизирована, функцию, которая вычисляет градиент, и функцию, которая вычисляет гессиан.
-Чем больше знаний о функции, которую необходимо минимизировать, тем больше можно использовать более эффективные алгоритмы. Например, выпуклая оптимизация обеспечивает более быстрые вычисления, когда функция является выпуклой, квадратичное программирование обеспечивает более быстрые вычисления, когда функция не более чем квадратична по своим переменным, и линейное программирование, когда функция максимально линейна.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages&lt;/h1&gt;
+&lt;p&gt;In computer programming, scientific programming language can refer to two degrees of the same concept.
+In a broad sense, a scientific programming language is a programming language that is widely used in computational science and computational mathematics. In this sense, C/C++ and Python can be considered as scientific programming languages.
+More broadly, a scientific programming language is a language that is designed and optimized for the use of mathematical formulas and matrices. Such languages are characterized not only by the presence of libraries that perform mathematical or scientific functions, but also by the syntax of the language itself. For example, neither C++ nor Python have built-in matrix types or functions for matrix arithmetic (addition, multiplication, etc.); instead, this function is available through the standard libraries. Scientific programming languages in a stricter sense include ALGOL, APL, Fortran, J, Julia, Maple, MATLAB, and R.
+Scientific programming languages should not be confused with scientific language in general, which is loose to the higher standards of precision, correctness, and brevity expected of practitioners of the scientific method.&lt;/p&gt;
+&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;
+&lt;p&gt;Linear algebra
+Scientific programming languages provide facilities for working with linear algebra. Dealing with large vectors and matrices is a key feature of these languages, as linear algebra lays the foundation for mathematical optimization, which in turn enables mainstream applications such as deep learning.
+Mathematical optimization
+In a scientific programming language, we can calculate the optimum of a function with a syntax close to that of a mathematical language. This example uses Newton&amp;rsquo;s minimization method. Modern scientific programming languages will use automatic differentiation to compute the gradients and hessians of a function given as input; cf. differentiable programming. Here, automatic direct differentiation is chosen for this problem. Old scientific programming languages, such as the venerable Fortran, required the programmer to pass, next to the function to be optimized, a function that calculates the gradient and a function that calculates the Hessian.
+The more knowledge about the function to be minimized, the more efficient algorithms can be used. For example, convex optimization provides faster calculations when the function is convex, quadratic programming provides faster calculations when the function is at most quadratic in its variables, and linear programming when the function is as linear as possible.&lt;/p&gt;
 </description>
     </item>
     
@@ -36,7 +60,7 @@
       <link>https://example.com/post/week4/</link>
       <pubDate>Fri, 12 May 2023 16:31:44 +0300</pubDate>
       <guid>https://example.com/post/week4/</guid>
-      <description>&lt;p&gt;Прошлая неделя была немного другой, так как у меня была операция, она не была сложной. Что касается учебы, на этой неделе важно подготовиться к последней контрольной работе, которая будет на следующей неделе. Пришлось делать последнюю лабораторную работу 14 по предмету &amp;ldquo;операционные системы&amp;rdquo;&lt;/p&gt;
+      <description>&lt;p&gt;Last week was a little different since I had surgery, it wasn&amp;rsquo;t difficult. As for studying, it is important this week to prepare for the last test, which will be next week. I had to do the last laboratory work 14 on the subject of &amp;ldquo;operating systems&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
@@ -45,23 +69,23 @@
       <link>https://example.com/post/report/</link>
       <pubDate>Fri, 28 Apr 2023 12:08:40 +0300</pubDate>
       <guid>https://example.com/post/report/</guid>
-      <description>&lt;p&gt;Отчет&lt;/p&gt;
-&lt;p&gt;Отчеты — это документы, содержащие данные или новости. Эти отчеты используются в самых разных областях, таких как наука, исследования, журналистика или бизнес. Формат отчетов может быть печатным, цифровым и даже аудиовизуальным.&lt;/p&gt;
-&lt;p&gt;Кроме того, в некоторых случаях они не ограничиваются сообщением по определенному вопросу, но также устанавливают цели, элементы убеждения (такие как предложения или советы) или даже заключение определенного расследования.&lt;/p&gt;
-&lt;p&gt;Части отчета
-Титульная страница. Авторские данные детализированы, как и название доклада.
-Индекс. Содержание отчета перечисляется с указанием страницы, на которой он находится.
-Введение. Детализируются части отчета и его общий объем.
-Разработка. Затрагиваемая тема фиксируется и развивается (это основная часть доклада).
-Заключение. Рассмотрены наиболее важные результаты.
-Библиография. Материалы, использованные при подготовке доклада, расположены в алфавитном порядке.&lt;/p&gt;
-&lt;p&gt;Примеры отчетов
-Исследовать. Они предлагают результат и выводы, полученные в результате расследования. В этих отчетах исследователь должен представлять информацию точно и ясно, чтобы избежать любого недопонимания. Они всегда включают введение с подробным описанием используемой методологии, целей исследования и теоретической основы.
-Эти отчеты предназначены для того, чтобы стать источником информации для других исследователей. Например: Влияние аниме на молодежь.
-Климатологический. Информирует об общих погодных условиях в конкретном месте и в определенное время. Анализируются температура воздуха, осадки, экстремальные явления и индексы УФ-излучения. Во многих случаях результаты представлены в виде таблиц, графиков или карт. Например: Сегодняшняя погода.
-Чтение. Типичные для академической области, эти отчеты представляют собой аргументированные или пояснительные сочинения, основанные на опыте чтения книги. Учащийся объясняет содержание работы, аспекты, которые нужно выделить, и мнения о содержании. Кроме того, обычно включаются детали ключевых элементов, таких как персонажи, время, место и информация об авторе. Цель этих отчетов состоит не только в том, чтобы убедиться, что учащийся прочитал книгу, но и в том, что он ее понял. Например: книга «Метаморфозы» Франца Кафки.
-Полиция. Эти отчеты составляются полицейским органом, и в них подробно описывается факт или событие, связанное с возможным наказуемым деянием. Они являются точкой исследования для любого типа расследования, поскольку в них подробно описывается событие (когда, где и как). Они должны быть очень строгими, точными, беспристрастными и исчерпывающими. Например: Сообщение о вымогательстве.
-Врач. Это письменное свидетельство, написанное врачом о текущем состоянии здоровья пациента и сделанное на основании его или ее запроса или запроса члена семьи или ответственного лица после проведения осмотра, анализа или исследования. . Некоторыми данными, которые не могут быть пропущены в медицинском заключении, являются дата и место, данные пациента и врача, причина консультации, с уточнением, является ли это экстренной ситуацией. Кроме того, врач должен описать заболевание и симптомы, которыми страдает пациент, вместе с окончательным диагнозом. Не могут быть упущены и ограничения, которые влечет за собой болезнь. Например: Образец медицинского заключения.&lt;/p&gt;
+      <description>&lt;p&gt;Report&lt;/p&gt;
+&lt;p&gt;Reports are documents containing data or news. These reports are used in a wide variety of fields such as science, research, journalism, or business. The format of reports can be printed, digital, and even audiovisual.&lt;/p&gt;
+&lt;p&gt;In addition, in some cases they are not limited to reporting on a specific issue, but also set goals, elements of persuasion (such as suggestions or advice), or even the conclusion of a specific investigation.&lt;/p&gt;
+&lt;p&gt;Report Parts
+Front page. The author&amp;rsquo;s data is detailed, as is the title of the report.
+Index. The contents of the report are listed with the page on which it is located.
+Introduction. Parts of the report and its total volume are detailed.
+Development. The topic being touched is fixed and developed (this is the main part of the report).
+Conclusion. The most important results are considered.
+Bibliography. The materials used in the preparation of the report are arranged in alphabetical order.&lt;/p&gt;
+&lt;p&gt;Report examples
+Research. They offer the result and conclusions drawn from the investigation. In these reports, the researcher must present information accurately and clearly to avoid any misunderstanding. They always include an introduction detailing the methodology used, the objectives of the study, and the theoretical background.
+These reports are intended to be a source of information for other researchers. For example: The influence of anime on youth.
+Climatological. Informs about the general weather conditions in a specific place and at a specific time. Air temperature, precipitation, extreme events and UV indices are analyzed. In many cases, the results are presented in the form of tables, graphs or maps. For example: Today&amp;rsquo;s weather.
+Reading. Typical of the academic field, these reports are argumentative or explanatory writings based on the experience of reading the book. The student explains the content of the work, aspects to highlight, and opinions about the content. In addition, details of key elements such as characters, time, place, and author information are usually included. The purpose of these reports is not only to ensure that the student has read the book, but also that the student has understood it. For example: the book &amp;ldquo;Metamorphoses&amp;rdquo; by Franz Kafka.
+Police. These reports are issued by the police authority and describe in detail the fact or event associated with the possible punishable act. They are the point of inquiry for any type of investigation as they detail the event (when, where and how). They must be very strict, precise, impartial and exhaustive. For example: Reporting extortion.
+Doctor. This is a written statement written by a doctor about a patient&amp;rsquo;s current state of health, based on his or her request, or that of a family member or responsible person, following an examination, analysis, or investigation. . Some of the data that cannot be omitted from the medical report are the date and place, the details of the patient and doctor, the reason for the consultation, specifying whether it is an emergency. In addition, the doctor must describe the disease and symptoms that the patient is suffering from, along with the final diagnosis. Nor can the limitations that disease entails be overlooked. For example: Sample medical report.&lt;/p&gt;
 </description>
     </item>
     
@@ -70,8 +94,8 @@
       <link>https://example.com/post/week/</link>
       <pubDate>Fri, 28 Apr 2023 12:08:10 +0300</pubDate>
       <guid>https://example.com/post/week/</guid>
-      <description>&lt;p&gt;Неделя 3&lt;/p&gt;
-&lt;p&gt;Прошедшая неделя была спокойной, мне нужно было сделать лаб 12 по предмету операционные системы, эта лаб работа состоит из создания трех скриптов, также мне предстояло подготовиться к контрольному заданию по предмету &amp;ldquo;математический анализ&amp;rdquo;, контроль состоял из: повторяющиеся пределы, частные производные, неявная функция, экстремумы функции и некоторые другие темы.&lt;/p&gt;
+      <description>&lt;p&gt;Week 3&lt;/p&gt;
+&lt;p&gt;The past week was calm, I had to do lab 12 on the subject of operating systems, this lab work consists of creating three scripts, I also had to prepare for a control task on the subject of &amp;ldquo;mathematical analysis&amp;rdquo;, the control consisted of: repeated limits, partial derivatives, implicit function, function extrema and some other topics.&lt;/p&gt;
 </description>
     </item>
     
@@ -80,22 +104,22 @@
       <link>https://example.com/post/markdown/</link>
       <pubDate>Sat, 08 Apr 2023 20:36:01 +0300</pubDate>
       <guid>https://example.com/post/markdown/</guid>
-      <description>&lt;p&gt;Markdown — это простой язык разметки, используемый для создания форматированного текста (например, HTML) с помощью текстового редактора. Он позволяет добавлять к тексту базовое форматирование, используя символы, известные и доступные на всех клавиатурах. Размер шрифта, цвет и другие расширенные параметры недоступны в Markdown.&lt;/p&gt;
-&lt;p&gt;Как пользоваться языком разметки
-Человек пишет текст в любом редакторе и добавляет в него специальные комбинации стандартных символов. Это разметка, она показывает, где текст должен быть жирным, где — заголовком, а в каком месте нужен список. С помощью символов можно разметить заголовки, выделения текста и даже сложные конструкции вроде таблиц. Специальные преобразователи формируют на основе разметки готовый документ. Это похоже на использование HTML, но маркдаун проще, текст в нем более читаемый. Преобразователи или изначально есть в текстовом редакторе, например в приложении для заметок, или скачиваются отдельно.
-Кто пользуется маркдауном
-• Пользователи интернета, которые общаются в мессенджерах и пишут заметки в сервисах, поддерживающих разметку.
-• Разработчики, которые пишут с помощью маркдауна документацию для проектов, — им нужен простой и надежный инструмент.
-• Контент-менеджеры при наполнении сайтов, которые поддерживают маркдаун. Разметка может использоваться и на веб-страницах.
-• Блогеры, пишущие лонгриды, когда оформляют материалы для статей. Многие платформы для написания текстов поддерживают маркдаун, например Notion.
-• Писатели и копирайтеры, которым нужен простой инструмент для оформления текста — разметка, читаемая с любого устройства.
-• Энтузиасты, которые пользуются разметкой в личных целях: пишут заметки и списки дел, ведут дневники или составляют карточки для запоминания.
-Для чего нужен маркдаун
-• Быстрое форматирование статьи для перевода в PDF или чтобы она просто выглядела красиво без лишних усилий.
-• Верстка текстового документа для размещения на сайте, но без применения HTML.
-• Написание документации для кода.
-• Составление заметок в личном цифровом блокноте.
-• Написание красивых сообщений в мессенджерах.&lt;/p&gt;
+      <description>&lt;p&gt;Markdown is a simple markup language used to create rich text (such as HTML) with a text editor. It allows you to add basic formatting to text using characters known and available on all keyboards. Font size, color, and other advanced options are not available in Markdown.&lt;/p&gt;
+&lt;p&gt;How to use the markup language
+A person writes text in any editor and adds special combinations of standard characters to it. This is the markup, it shows where the text should be bold, where the heading should be, and where the list should be. Symbols can be used to mark up headings, text highlights, and even complex structures like tables. Special converters form a finished document based on the markup. It&amp;rsquo;s similar to using HTML, but the markdown is simpler and the text is more readable. Converters are either pre-installed in a text editor, such as a note-taking app, or are downloaded separately.
+Who Uses Markdown
+• Internet users who communicate in instant messengers and write notes in services that support markup.
+• Developers who write documentation for projects using markdown - they need a simple and reliable tool.
+• Content managers when filling sites that support markdown. The markup can also be used on web pages.
+• Bloggers who write longreads when they write materials for articles. Many writing platforms support markdown, such as Notion.
+• Writers and copywriters who want a simple text styling tool - markup readable on any device.
+• Enthusiasts who use markup for personal purposes: write notes and to-do lists, keep diaries or create flashcards.
+What is Markdown for?
+• Quickly format an article to translate to PDF or just look nice with no extra effort.
+• Layout of a text document for placement on the site, but without the use of HTML.
+• Writing documentation for the code.
+• Making notes in a personal digital notebook.
+• Writing beautiful messages in instant messengers.&lt;/p&gt;
 </description>
     </item>
     
@@ -104,7 +128,7 @@
       <link>https://example.com/post/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F2/</link>
       <pubDate>Sat, 08 Apr 2023 20:15:37 +0300</pubDate>
       <guid>https://example.com/post/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F2/</guid>
-      <description>&lt;p&gt;На прошлой неделе мне нужно было подготовиться к тесту по логике и математике, мне также нужно было выполнить лабораторную работу 9, в конце недели я играл в баскетбол с друзьями.&lt;/p&gt;
+      <description>&lt;p&gt;Last week I had to study for a logic and maths test, I also had to do Lab 9, at the end of the week I played basketball with my friends.&lt;/p&gt;
 </description>
     </item>
     
@@ -113,19 +137,19 @@
       <link>https://example.com/post/git/</link>
       <pubDate>Thu, 16 Mar 2023 21:26:14 +0300</pubDate>
       <guid>https://example.com/post/git/</guid>
-      <description>&lt;p&gt;Управление версиями&lt;/p&gt;
-&lt;p&gt;что такое Управление версиями?&lt;/p&gt;
-&lt;p&gt;Система управления версиями (также используется определение «система контроля версий[1]», от англ. Version Control System, VCS или Revision Control System) — программное обеспечение для облегчения работы с изменяющейся информацией.&lt;/p&gt;
-&lt;p&gt;Для чего используется управление версиями ?&lt;/p&gt;
-&lt;p&gt;Система управления версиями позволяет хранить несколько версий одного и того же документа, при необходимости возвращаться к более ранним версиям, определять, кто и когда сделал то или иное изменение, и многое другое.&lt;/p&gt;
-&lt;p&gt;Такие системы наиболее широко используются при разработке программного обеспечения для хранения исходных кодов разрабатываемой программы. Однако они могут с успехом применяться и в других областях, в которых ведётся работа с большим количеством непрерывно изменяющихся электронных документов. В частности, системы управления версиями применяются в САПР, обычно в составе систем управления данными об изделии (PDM). Управление версиями используется в инструментах конфигурационного управления (Software Configuration Management Tools)&lt;/p&gt;
-&lt;p&gt;GIT&lt;/p&gt;
-&lt;p&gt;Что такое git?&lt;/p&gt;
-&lt;p&gt;Git — это набор консольных утилит, которые отслеживают и фиксируют изменения в файлах  С его помощью вы можете сравнивать, анализировать, редактировать, сливать изменения и возвращаться назад к последнему сохранению. Этот процесс называется контролем версий.&lt;/p&gt;
-&lt;p&gt;Для чего он нужен?&lt;/p&gt;
-&lt;p&gt;Ну во-первых, чтобы отследить изменения, произошедшие с проектом, со временем. Проще говоря, мы можем посмотреть как менялись файлы программы, на всех этапах разработки и при необходимости вернуться назад и что-то отредактировать. Часто бывают ситуации, когда, во вполне себе работающий код, вам нужно внести определенные правки или улучшить какой-то функционал, по желанию заказчика.&lt;/p&gt;
-&lt;p&gt;Во-вторых он чрезвычайно полезен при одновременной работе нескольких специалистов, над одним проектом. Без Гита случится коллапс, когда разработчики, скопировав весь код из главной папки и сделав с ним задуманное, попытаются одновременно вернуть весь код обратно.
-Git является распределенным, то есть не зависит от одного центрального сервера, на котором хранятся файлы. Вместо этого он работает полностью локально, сохраняя данные в директориях на жестком диске, которые называются репозиторием. Тем не менее, вы можете хранить копию репозитория онлайн, это сильно облегчает работу над одним проектом для нескольких людей.&lt;/p&gt;
+      <description>&lt;p&gt;Versioning&lt;/p&gt;
+&lt;p&gt;what is version control?&lt;/p&gt;
+&lt;p&gt;Version control system (also used the definition of &amp;ldquo;version control system [1]&amp;rdquo;, from the English. Version Control System, VCS or Revision Control System) - software to facilitate the work with changing information.&lt;/p&gt;
+&lt;p&gt;What is version control used for?&lt;/p&gt;
+&lt;p&gt;The version control system allows you to store multiple versions of the same document, revert to earlier versions if necessary, determine who made a change and when, and much more.&lt;/p&gt;
+&lt;p&gt;Such systems are most widely used in software development to store the source codes of the program being developed. However, they can also be successfully applied in other areas where work is being done with a large number of continuously changing electronic documents. In particular, version control systems are used in CAD, usually as part of product data management (PDM) systems. Versioning is used in the Configuration Management Tools (Software Configuration Management Tools)&lt;/p&gt;
+&lt;p&gt;git&lt;/p&gt;
+&lt;p&gt;What is git?&lt;/p&gt;
+&lt;p&gt;Git is a set of console utilities that track and commit changes to files. With it, you can compare, analyze, edit, merge changes, and revert back to your last save. This process is called version control.&lt;/p&gt;
+&lt;p&gt;What is it for?&lt;/p&gt;
+&lt;p&gt;Well, firstly, to track the changes that have occurred with the project over time. Simply put, we can see how the program files have changed at all stages of development and, if necessary, go back and edit something. Often there are situations when, in a completely working code, you need to make certain changes or improve some functionality, at the request of the customer.&lt;/p&gt;
+&lt;p&gt;Secondly, it is extremely useful when several specialists are working on the same project at the same time. Without the Git, there would be a collapse when the developers, after copying all the code from the main folder and doing what they intended with it, would try to put all the code back at the same time.
+Git is distributed, meaning it doesn&amp;rsquo;t depend on a single central server that stores files. Instead, it works entirely locally, storing data in directories on the hard drive called a repository. However, you can keep a copy of the repository online, which makes it much easier for multiple people to work on the same project.&lt;/p&gt;
 </description>
     </item>
     
@@ -134,8 +158,8 @@ Git является распределенным, то есть не завис
       <link>https://example.com/post/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F1/</link>
       <pubDate>Thu, 16 Mar 2023 20:51:39 +0300</pubDate>
       <guid>https://example.com/post/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F1/</guid>
-      <description>&lt;p&gt;Прошедшая неделя была очень насыщенной и продуктивной, я сделала лабораторную работу, вашей целью было ознакомиться с файловой системой linux и получить практические навыки использования команд.
-Я также готовилась к двум контрольным работам: по математическому анализу, где нужно было решать задачи по интегралам, и по линейной алгебре.&lt;/p&gt;
+      <description>&lt;p&gt;The past week has been very busy and productive, I did a lab, your goal was to become familiar with the linux file system and get practical skills in using commands.
+I was also preparing for two tests: in mathematical analysis, where it was necessary to solve problems in integrals, and in linear algebra.&lt;/p&gt;
 </description>
     </item>
     
@@ -323,7 +347,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-719635842&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-127396854&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -333,7 +357,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-719635842&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-127396854&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

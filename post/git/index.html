@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: May 12, 2023 --><html lang="en-us" >
+<!-- Last Published: May 20, 2023 --><html lang="en-us" >
 
 
 <head>
@@ -276,11 +276,13 @@
 
   
 
-<meta name="description" content="Управление версиями
-что такое Управление версиями?
-Система управления версиями (также используется определение «система контроля версий[1]», от англ. Version Control System, VCS или Revision Control System) — программное обеспечение для облегчения работы с изменяющейся информацией." />
+<meta name="description" content="Versioning
+what is version control?
+Version control system (also used the definition of &ldquo;version control system [1]&rdquo;, from the English. Version Control System, VCS or Revision Control System) - software to facilitate the work with changing information." />
 
 
+
+  <link rel="alternate" hreflang="ru" href="https://example.com/ru/post/git/" />
 
 <link rel="alternate" hreflang="en-us" href="https://example.com/post/git/" />
 <link rel="canonical" href="https://example.com/post/git/" />
@@ -321,9 +323,9 @@
 <meta property="og:site_name" content="Academic" />
 <meta property="og:url" content="https://example.com/post/git/" />
 <meta property="og:title" content="Git | Academic" />
-<meta property="og:description" content="Управление версиями
-что такое Управление версиями?
-Система управления версиями (также используется определение «система контроля версий[1]», от англ. Version Control System, VCS или Revision Control System) — программное обеспечение для облегчения работы с изменяющейся информацией." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="Versioning
+what is version control?
+Version control system (also used the definition of &ldquo;version control system [1]&rdquo;, from the English. Version Control System, VCS or Revision Control System) - software to facilitate the work with changing information." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -378,7 +380,7 @@
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Управление версиями\nчто такое Управление версиями?\nСистема управления версиями (также используется определение «система контроля версий[1]», от англ. Version Control System, VCS или Revision Control System) — программное обеспечение для облегчения работы с изменяющейся информацией."
+  "description": "Versioning\nwhat is version control?\nVersion control system (also used the definition of \u0026ldquo;version control system [1]\u0026rdquo;, from the English. Version Control System, VCS or Revision Control System) - software to facilitate the work with changing information."
 }
 </script>
 
@@ -790,6 +792,22 @@
 
         
         
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link " data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>English</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://example.com/ru/post/git/">
+              <span>Русский</span>
+            </a>
+            
+          </div>
+        </li>
+        
 
       </ul>
 
@@ -893,19 +911,19 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Управление версиями</p>
-<p>что такое Управление версиями?</p>
-<p>Система управления версиями (также используется определение «система контроля версий[1]», от англ. Version Control System, VCS или Revision Control System) — программное обеспечение для облегчения работы с изменяющейся информацией.</p>
-<p>Для чего используется управление версиями ?</p>
-<p>Система управления версиями позволяет хранить несколько версий одного и того же документа, при необходимости возвращаться к более ранним версиям, определять, кто и когда сделал то или иное изменение, и многое другое.</p>
-<p>Такие системы наиболее широко используются при разработке программного обеспечения для хранения исходных кодов разрабатываемой программы. Однако они могут с успехом применяться и в других областях, в которых ведётся работа с большим количеством непрерывно изменяющихся электронных документов. В частности, системы управления версиями применяются в САПР, обычно в составе систем управления данными об изделии (PDM). Управление версиями используется в инструментах конфигурационного управления (Software Configuration Management Tools)</p>
-<p>GIT</p>
-<p>Что такое git?</p>
-<p>Git — это набор консольных утилит, которые отслеживают и фиксируют изменения в файлах  С его помощью вы можете сравнивать, анализировать, редактировать, сливать изменения и возвращаться назад к последнему сохранению. Этот процесс называется контролем версий.</p>
-<p>Для чего он нужен?</p>
-<p>Ну во-первых, чтобы отследить изменения, произошедшие с проектом, со временем. Проще говоря, мы можем посмотреть как менялись файлы программы, на всех этапах разработки и при необходимости вернуться назад и что-то отредактировать. Часто бывают ситуации, когда, во вполне себе работающий код, вам нужно внести определенные правки или улучшить какой-то функционал, по желанию заказчика.</p>
-<p>Во-вторых он чрезвычайно полезен при одновременной работе нескольких специалистов, над одним проектом. Без Гита случится коллапс, когда разработчики, скопировав весь код из главной папки и сделав с ним задуманное, попытаются одновременно вернуть весь код обратно.
-Git является распределенным, то есть не зависит от одного центрального сервера, на котором хранятся файлы. Вместо этого он работает полностью локально, сохраняя данные в директориях на жестком диске, которые называются репозиторием. Тем не менее, вы можете хранить копию репозитория онлайн, это сильно облегчает работу над одним проектом для нескольких людей.</p>
+      <p>Versioning</p>
+<p>what is version control?</p>
+<p>Version control system (also used the definition of &ldquo;version control system [1]&rdquo;, from the English. Version Control System, VCS or Revision Control System) - software to facilitate the work with changing information.</p>
+<p>What is version control used for?</p>
+<p>The version control system allows you to store multiple versions of the same document, revert to earlier versions if necessary, determine who made a change and when, and much more.</p>
+<p>Such systems are most widely used in software development to store the source codes of the program being developed. However, they can also be successfully applied in other areas where work is being done with a large number of continuously changing electronic documents. In particular, version control systems are used in CAD, usually as part of product data management (PDM) systems. Versioning is used in the Configuration Management Tools (Software Configuration Management Tools)</p>
+<p>git</p>
+<p>What is git?</p>
+<p>Git is a set of console utilities that track and commit changes to files. With it, you can compare, analyze, edit, merge changes, and revert back to your last save. This process is called version control.</p>
+<p>What is it for?</p>
+<p>Well, firstly, to track the changes that have occurred with the project over time. Simply put, we can see how the program files have changed at all stages of development and, if necessary, go back and edit something. Often there are situations when, in a completely working code, you need to make certain changes or improve some functionality, at the request of the customer.</p>
+<p>Secondly, it is extremely useful when several specialists are working on the same project at the same time. Without the Git, there would be a collapse when the developers, after copying all the code from the main folder and doing what they intended with it, would try to put all the code back at the same time.
+Git is distributed, meaning it doesn&rsquo;t depend on a single central server that stores files. Instead, it works entirely locally, storing data in directories on the hard drive called a repository. However, you can keep a copy of the repository online, which makes it much easier for multiple people to work on the same project.</p>
 
     </div>
 
